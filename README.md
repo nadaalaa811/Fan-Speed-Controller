@@ -21,5 +21,5 @@ temperature value, the microcontroller will drive the fan like this:
       
 # How to use:
 
-Download the project along with the proteus simulation <a href="https://www.mediafire.com/file/e8kd5haw2nh52n1/Project-3.rar/file">Here</a>.
+Download the project along with the proteus simulation <a href="https://drive.google.com/file/d/15_7qY62C-0BlZNevNKGupR4HrG-YUyJv/view">Here</a>.
 
