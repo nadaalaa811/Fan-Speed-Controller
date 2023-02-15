@@ -1,8 +1,8 @@
 /******************************************************************************
  *
- * Module: PMW Signal
+ * Module: PWM Signal
  *
- * File Name: pmw.h
+ * File Name: pwm.h
  *
  * Description: header file for PWM driver
  *
@@ -10,8 +10,8 @@
  *
  *******************************************************************************/
 
-#ifndef PMW_H_
-#define PMW_H_
+#ifndef PWM_H_
+#define PWM_H_
 
 #include "std_types.h"
 
@@ -24,4 +24,4 @@
  */
 void PWM_Timer0_Start(uint8 duty_cycle);
 
-#endif /* PMW_H_ */
+#endif /* PWM_H_ */
