@@ -1,10 +1,10 @@
 /******************************************************************************
  *
- * Module: PMW Signal
+ * Module: PWM Signal
  *
- * File Name: pmw.c
+ * File Name: PWM.c
  *
- * Description: Source file for the PMW driver
+ * Description: Source file for the PWM driver
  *
  * Author: Nada
  *
